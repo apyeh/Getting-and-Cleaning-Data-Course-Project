@@ -24,10 +24,10 @@ Laying
 The means of the following 79 measurements were calculated for each subject/activity pair
 The prefix 't' in these measurements denotes time domain signals whereas the prefix 'f' in these measurements denotes frequency domain signals.
 
-tBodyAcc-mean()-X
-tBodyAcc-mean()-Y
-tBodyAcc-mean()-Z
-tBodyAcc-std()-X
+* tBodyAcc-mean()-X
+* tBodyAcc-mean()-Y
+* tBodyAcc-mean()-Z
+* tBodyAcc-std()-X
 tBodyAcc-std()-Y
 tBodyAcc-std()-Z
 tGravityAcc-mean()-X
