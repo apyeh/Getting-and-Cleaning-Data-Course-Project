@@ -2,19 +2,19 @@ Code Book
 ========
 
 The steps taken to tidy the data are in the source code run_analysis.R. These steps include the following:
- 1. Train and test datasets were merged
+ 1. Train and test datasets were merged.
  2. Measurements on only the mean and standard deviation for each observation were extracted from the merged dataset.
- 3. Activity names for the six activities (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying) were added to the merged dataset
- 4. Two of the variables in the merged dataset were given descriptive names (Subject and Activity)
- 5. The mean of each variable for each activity and each of the 30 subjects was calculated and a new table of these means was written out to the file 'data_mean.txt'
+ 3. Activity names for the six activities (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying) were added to the merged dataset.
+ 4. Two of the variables in the merged dataset were given descriptive names (Subject and Activity).
+ 5. The mean of each variable for each activity and each of the 30 subjects was calculated and a new table of these means was written out to the file 'data_mean.txt'.
 
-The variables in data_mean.txt are as follows
+The variables in data_mean.txt are listed below.
 
 # Subject
-Each of the 30 subjects was assigned an integer 1 through 30
+Each of the 30 subjects was assigned an integer 1 through 30.
 
 # Activity
-Measurements were obtained for these 6 Activites
+Measurements were obtained for the following 6 activites:
 * Walking
 * Walking Upstairs
 * Walking Downstairs
