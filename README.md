@@ -11,6 +11,6 @@ The steps taken to tidy the data are in the source code 'run_analysis.R'. This c
  4. Two of the variables in the merged dataset were given descriptive names (Subject and Activity).
  5. The mean of each variable for each activity and each of the 30 subjects was calculated and a new table of these means was written out to the file 'data_mean.txt'.
 
-The table from step 5 above consists of 180 rows and 81 columns. The rows consists of the subject # and activity and the means of 79 measurements that were taken for that particular subject/activity pair.
+The table from step 5 above consists of 180 rows and 81 columns. The rows consists of the subject # and activity and the means of the measurements of 79 variables that were taken for that particular subject/activity pair.
 
-The descriptors of the 79 measurements for which the means were calculated are listed in CodeBook.md
+The descriptors of the 79 variables for which the means were calculated are listed in CodeBook.md
